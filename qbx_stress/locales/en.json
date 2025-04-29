@@ -1,0 +1,6 @@
+{
+    "notify": {
+        "stress_gain": "Feeling More Stressed!",
+        "stress_removed": "Feeling More Relaxed!"
+    }
+}
