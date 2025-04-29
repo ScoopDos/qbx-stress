@@ -1,5 +1,5 @@
 # Stress Handler 
-**(Inspired from qb-stress-handler)**
+**Inspired from [qb-stress-handler](https://github.com/it-zeusx/qb-stress-handler)**
 
 This is a fork taken from 'qbx_hud'.
 
