@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Altered Qbx HUD for iiRP'
-repository 'https://github.com/Qbox-project/qbx_hud'
+description 'Qbx_stress handler'
+repository 'https://github.com/ScoopDos/qbx-stress'
 version '0.1.0'
 
 ox_lib 'locale'
